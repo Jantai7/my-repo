@@ -1,2 +1,1 @@
-new change
-second change
+dedication
